@@ -1,0 +1,13 @@
+name: Course-Project-Data-Products
+title: Course-Project-Data-Products
+username:
+account: edgarodriguez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2751258
+bundleId: 3590905
+url: https://edgarodriguez.shinyapps.io/Course-Project-Data-Products/
+when: 1599175131.46569
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: example_mpg_server.R|example_mpg_ui.R

@@ -1,0 +1,13 @@
+name: AET-Prediction-from-P-in-Yucatan-Mexico
+title: AET-Prediction-from-P-in-Yucatan-Mexico
+username:
+account: edgarodriguez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2751101
+bundleId: 3590855
+url: https://edgarodriguez.shinyapps.io/AET-Prediction-from-P-in-Yucatan-Mexico/
+when: 1599174091.68998
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: example_mpg_server.R|example_mpg_ui.R

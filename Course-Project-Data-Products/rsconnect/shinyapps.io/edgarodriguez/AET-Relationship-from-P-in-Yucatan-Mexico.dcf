@@ -1,0 +1,13 @@
+name: AET-Relationship-from-P-in-Yucatan-Mexico
+title: AET-Relationship-from-P-in-Yucatan-Mexico
+username:
+account: edgarodriguez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2751211
+bundleId: 3590909
+url: https://edgarodriguez.shinyapps.io/AET-Relationship-from-P-in-Yucatan-Mexico/
+when: 1599175306.60518
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: example_mpg_server.R|example_mpg_ui.R
